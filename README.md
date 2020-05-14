@@ -2,7 +2,7 @@
 
 ### Project Overview 
 
-The goal of this undertaking is, if a pooch is recognized in the picture, it will give a gauge of the canine's variety. In the event that a human is recognized, it will give a gauge of the pooch breed that is most looking like. We will utilize Convolution Neural Network (CNN) since it works very well for pictures. 
+In this task, I constructed and prepared a neural system model with CNN (Convolutional Neural Networks) move getting the hang of, utilizing 8351 canine pictures of 133 varieties. CNN is a kind of profound neural systems, which is regularly used to break down picture information. Ordinarily, a CNN design comprises of convolutional layers, enactment work, pooling layers, completely associated layers and standardization layers. Move learning is a procedure that permits a model produced for an assignment to be reused as the beginning stage for another errand. The prepared model can be utilized by a web or versatile application to process genuine world, client provided pictures. Given a picture of a canine, the calculation will foresee the type of the pooch. On the off chance that a picture of a human is provided, the code will distinguish the most taking after pooch breed.
 
 ### Summary of the project: 
 
