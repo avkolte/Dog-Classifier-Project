@@ -36,3 +36,5 @@ Stage 7: Test Your Algorithm
 1. The model was able to reach an accuracy of 83% on test data.
 2. If a dog image is supplied, the model gives a prediction of the dog breed.
 3. The model is also able to identify the most resembling dog breed of a person.
+
+Blog Post : (https://medium.com/@anupkolte92/dog-breed-classifier-project-overview-610a6866186b)
